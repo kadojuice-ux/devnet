@@ -1,0 +1,21 @@
+{
+  "name": "Test Token",
+  "symbol": "TSTKNS",
+  "description": "test",
+  "image": "https://raw.githubusercontent.com/gillonart/art/master/sol2.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/gillonart/art/master/sol2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+} 
