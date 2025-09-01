@@ -1,11 +1,11 @@
 {
   "key": 4,
-  "updateAuthority": "",
-  "mint": "",
+  "updateAuthority": "71b1x1Lfa5myL78PhNEeQ11eaj3iEjcL19AkRxuJ3c6j",
+  "mint": "FmLSMBPi5proYnyXCRpdGYxNRfTqCQDAFPqsS65ur227",
   "data": {
     "name": "test",
     "symbol": "test",
-    "uri": "https://gateway.pinata.cloud/ipfs/QmYSpFJdmaKgMEPBM6kCNjgCeufSTfZDxRYhzbnjEQ4PHP",
+    "uri": "https://raw.githubusercontent.com/gillonart/art/master/sol2.png",
     "sellerFeeBasisPoints": 0,
   },
   "primarySaleHappened": 0,
